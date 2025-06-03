@@ -1,0 +1,3 @@
+{:paths ["src"]
+ :description "Ring middleware for AWS Lambda Function URL requests and responses"
+ :url "https://github.com/noelrivasc/ring-lambda-url-proxy"}
